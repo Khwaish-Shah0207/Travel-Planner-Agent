@@ -1,0 +1,124 @@
+{
+  "goa": {
+    "display_name": "Goa",
+    "lat": 15.2993,
+    "lon": 74.1240,
+    "attractions": ["Baga Beach", "Fort Aguada", "Basilica of Bom Jesus", "Dudhsagar Falls", "Anjuna Flea Market"],
+    "travel_info": "Goa is on India's west coast, famous for its beaches, Portuguese-era churches and nightlife. Best visited November-February when it's cool and dry.",
+    "avg_daily_costs": {
+      "hotel_per_room_per_night": 2000,
+      "food_per_person_per_day": 800,
+      "local_transport_per_day": 400
+    },
+    "activities": [
+      {"name": "Relax at Baga Beach", "category": "beaches", "cost_per_person": 0, "duration": "half-day"},
+      {"name": "Sunset at Palolem Beach", "category": "beaches", "cost_per_person": 0, "duration": "half-day"},
+      {"name": "Scuba diving at Grande Island", "category": "adventure", "cost_per_person": 2500, "duration": "half-day"},
+      {"name": "Parasailing at Calangute", "category": "adventure", "cost_per_person": 1500, "duration": "1-2 hours"},
+      {"name": "Cafe hopping in Anjuna/Assagao", "category": "cafes", "cost_per_person": 600, "duration": "half-day"},
+      {"name": "Visit Fort Aguada", "category": "sightseeing", "cost_per_person": 100, "duration": "2-3 hours"},
+      {"name": "Spice plantation tour", "category": "nature", "cost_per_person": 800, "duration": "half-day"},
+      {"name": "Nightlife at Tito's Lane", "category": "nightlife", "cost_per_person": 1000, "duration": "evening"}
+    ]
+  },
+  "mumbai": {
+    "display_name": "Mumbai",
+    "lat": 19.0760,
+    "lon": 72.8777,
+    "attractions": ["Gateway of India", "Marine Drive", "Elephanta Caves", "Chhatrapati Shivaji Terminus"],
+    "travel_info": "Mumbai is India's financial capital, known for Bollywood, colonial architecture and street food. Pleasant Nov-Feb, humid rest of the year.",
+    "avg_daily_costs": {
+      "hotel_per_room_per_night": 2500,
+      "food_per_person_per_day": 700,
+      "local_transport_per_day": 350
+    },
+    "activities": [
+      {"name": "Gateway of India & harbour walk", "category": "sightseeing", "cost_per_person": 0, "duration": "half-day"},
+      {"name": "Ferry to Elephanta Caves", "category": "adventure", "cost_per_person": 400, "duration": "half-day"},
+      {"name": "Street food trail at Mohammed Ali Road", "category": "cafes", "cost_per_person": 500, "duration": "evening"},
+      {"name": "Marine Drive sunset walk", "category": "beaches", "cost_per_person": 0, "duration": "1-2 hours"},
+      {"name": "Bollywood studio tour", "category": "sightseeing", "cost_per_person": 1500, "duration": "half-day"},
+      {"name": "Cafe hopping in Bandra", "category": "cafes", "cost_per_person": 700, "duration": "half-day"}
+    ]
+  },
+  "delhi": {
+    "display_name": "Delhi",
+    "lat": 28.7041,
+    "lon": 77.1025,
+    "attractions": ["Red Fort", "India Gate", "Qutub Minar", "Humayun's Tomb", "Chandni Chowk"],
+    "travel_info": "Delhi, India's capital, blends Mughal-era monuments with modern city life. Best visited Oct-March, avoid peak summer heat.",
+    "avg_daily_costs": {
+      "hotel_per_room_per_night": 1800,
+      "food_per_person_per_day": 600,
+      "local_transport_per_day": 300
+    },
+    "activities": [
+      {"name": "Red Fort & light show", "category": "sightseeing", "cost_per_person": 250, "duration": "half-day"},
+      {"name": "Old Delhi food walk, Chandni Chowk", "category": "cafes", "cost_per_person": 500, "duration": "half-day"},
+      {"name": "Humayun's Tomb & Lodhi Gardens", "category": "sightseeing", "cost_per_person": 200, "duration": "half-day"},
+      {"name": "Cycle rickshaw adventure ride", "category": "adventure", "cost_per_person": 300, "duration": "1-2 hours"},
+      {"name": "Cafe hopping in Hauz Khas Village", "category": "cafes", "cost_per_person": 700, "duration": "half-day"},
+      {"name": "India Gate evening stroll", "category": "sightseeing", "cost_per_person": 0, "duration": "1-2 hours"}
+    ]
+  },
+  "jaipur": {
+    "display_name": "Jaipur",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "attractions": ["Amber Fort", "Hawa Mahal", "City Palace", "Jantar Mantar", "Nahargarh Fort"],
+    "travel_info": "Jaipur, the 'Pink City', is known for majestic forts and palaces. Best visited Oct-March.",
+    "avg_daily_costs": {
+      "hotel_per_room_per_night": 1700,
+      "food_per_person_per_day": 550,
+      "local_transport_per_day": 300
+    },
+    "activities": [
+      {"name": "Amber Fort with elephant/jeep ride", "category": "adventure", "cost_per_person": 600, "duration": "half-day"},
+      {"name": "Hawa Mahal photo stop", "category": "sightseeing", "cost_per_person": 50, "duration": "1 hour"},
+      {"name": "City Palace museum tour", "category": "sightseeing", "cost_per_person": 300, "duration": "half-day"},
+      {"name": "Hot air balloon ride", "category": "adventure", "cost_per_person": 8000, "duration": "half-day"},
+      {"name": "Cafe hopping near Bapu Bazaar", "category": "cafes", "cost_per_person": 500, "duration": "half-day"},
+      {"name": "Nahargarh Fort sunset view", "category": "nature", "cost_per_person": 100, "duration": "2-3 hours"}
+    ]
+  },
+  "manali": {
+    "display_name": "Manali",
+    "lat": 32.2432,
+    "lon": 77.1892,
+    "attractions": ["Solang Valley", "Rohtang Pass", "Hadimba Temple", "Old Manali"],
+    "travel_info": "Manali is a Himalayan hill town popular for adventure sports and snow. Best for snow Dec-Feb, best weather March-June & Sep-Nov.",
+    "avg_daily_costs": {
+      "hotel_per_room_per_night": 1800,
+      "food_per_person_per_day": 600,
+      "local_transport_per_day": 500
+    },
+    "activities": [
+      {"name": "Paragliding at Solang Valley", "category": "adventure", "cost_per_person": 2000, "duration": "half-day"},
+      {"name": "River rafting on the Beas", "category": "adventure", "cost_per_person": 1200, "duration": "half-day"},
+      {"name": "Rohtang Pass snow excursion", "category": "nature", "cost_per_person": 1500, "duration": "full-day"},
+      {"name": "Cafe hopping in Old Manali", "category": "cafes", "cost_per_person": 500, "duration": "half-day"},
+      {"name": "Hadimba Temple visit", "category": "sightseeing", "cost_per_person": 0, "duration": "1-2 hours"},
+      {"name": "Zorbing at Solang Valley", "category": "adventure", "cost_per_person": 500, "duration": "1 hour"}
+    ]
+  },
+  "kerala": {
+    "display_name": "Kerala",
+    "lat": 9.9312,
+    "lon": 76.2673,
+    "attractions": ["Alleppey Backwaters", "Munnar Tea Gardens", "Fort Kochi", "Periyar Wildlife Sanctuary"],
+    "travel_info": "Kerala, 'God's Own Country', is known for backwaters, tea plantations and beaches. Best Sep-March, avoid monsoon (June-Aug) unless you enjoy it.",
+    "avg_daily_costs": {
+      "hotel_per_room_per_night": 2200,
+      "food_per_person_per_day": 650,
+      "local_transport_per_day": 400
+    },
+    "activities": [
+      {"name": "Houseboat cruise on Alleppey backwaters", "category": "nature", "cost_per_person": 3000, "duration": "full-day"},
+      {"name": "Munnar tea garden trek", "category": "adventure", "cost_per_person": 900, "duration": "half-day"},
+      {"name": "Fort Kochi heritage walk", "category": "sightseeing", "cost_per_person": 200, "duration": "half-day"},
+      {"name": "Cafe hopping in Fort Kochi", "category": "cafes", "cost_per_person": 500, "duration": "half-day"},
+      {"name": "Beach time at Varkala Cliff Beach", "category": "beaches", "cost_per_person": 0, "duration": "half-day"},
+      {"name": "Periyar wildlife boat safari", "category": "nature", "cost_per_person": 1000, "duration": "half-day"}
+    ]
+  }
+}

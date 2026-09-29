@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+backend/.env
+backend/data/conversations.json
+backend/venv/
+backend/.venv/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/package-lock.json
+frontend/.env.local
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
